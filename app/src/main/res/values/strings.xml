@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CuelinksSDKDemo</string>
+
+    <string name="get_text">Get Text</string>
+    <string name="get_override_text">Get Override Text</string>
+    <string name="get_html_text">Get HTML Text</string>
+    <string name="get_override_html_text">Get Override HTML Text</string>
+    <string name="enter_sub_id">Enter Sub Id Here</string>
+    <string name="enter_normal_text">Enter Normal Text Here</string>
+    <string name="enter_html_text">Enter HTML Text Here</string>
+    <string name="normal_text_demo">Normal Text Demo</string>
+    <string name="html_text_demo">HTML Text Demo</string>
+</resources>
